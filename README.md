@@ -1,2 +1,2 @@
 # c-digos
-Exercicíos Java no IDE Netbeans.
+Códigos Java desenvolvidos no Netbeans IDE.
